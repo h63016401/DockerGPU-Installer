@@ -29,4 +29,4 @@ This project helps developers and researchers quickly configure GPU-based Docker
 ### 🔹 Run via one-liner
 
 ```bash
-bash <(curl -fsSL https://gitlab.com/h63016401/DockerGPU-Installer/-/raw/main/install_gpu_docker.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/h63016401/DockerGPU-Installer/main/install_gpu_docker.sh)
